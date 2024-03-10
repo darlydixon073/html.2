@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    background-color: rgb(255 0 95);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQ5AunqYn98CyFvkwG76Lruk-TqYCu3Bs8A&usqp=CAU);
+    background-size: 10%;
+}   
+.MB{
+    border: 2px solid rgba(138, 13, 13, 0.616);
+    border-radius: 5px;
+    width: 300px;
+    padding: 20px;
+    color: black;
+    background-color: aqua;
+}
+input{
+    margin-top: 10px;
+}
